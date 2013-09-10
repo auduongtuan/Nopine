@@ -3,4 +3,5 @@
 composer.phar
 composer.lock
 .DS_Store
-app/config/
+app/config/database.php
+vendor/
